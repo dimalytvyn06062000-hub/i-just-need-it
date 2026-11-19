@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "PSR",
+    "UNT",
+    "BMB"
+  ],
+  "key": {
+    "P": {
+      "item": "infinitygauntlet:power_stone"
+    },
+    "S": {
+      "item": "infinitygauntlet:space_stone"
+    },
+    "R": {
+      "item": "infinitygauntlet:reality_stone"
+    },
+    "U": {
+      "item": "infinitygauntlet:soul_stone"
+    },
+    "T": {
+      "item": "infinitygauntlet:time_stone"
+    },
+    "M": {
+      "item": "infinitygauntlet:mind_stone"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "infinitygauntlet:infinity_gauntlet"
+  }
+}
